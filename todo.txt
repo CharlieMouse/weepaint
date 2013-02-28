@@ -14,6 +14,7 @@ User Stories: (prgress from business view port, smaller units that MMF)
 
 Engineering Tasks: (infrastructure)
 * automated build
+- static code analysis (lint)
 - continuous intergration
 - server side testing
 - client side testing
