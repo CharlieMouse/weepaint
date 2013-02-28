@@ -1,0 +1,19 @@
+WeeWikiPaint
+
+Minimum Marketing Feature: MMF
+-marketing home page
+-collarborative paint page (very basic)
+-wiki-fy the page
+-more complex painting?
+
+User Stories: (prgress from business view port, smaller units that MMF)
+*"hello workd" server
+-"hello world" client
+-support multiple browers
+-marketing copy
+
+Engineering Tasks: (infrastructure)
+* automated build
+- continuous intergration
+- server side testing
+- client side testing
